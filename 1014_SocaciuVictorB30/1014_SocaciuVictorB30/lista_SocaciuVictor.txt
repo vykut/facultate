@@ -1,0 +1,4 @@
+Nr. Nume                 Grupa Punctaj Note teme                Punctaj examen
+ 1               victor   1014      30 0
+ 2                  ana   1014      10 0
+ 2                  ana   1014      10 0

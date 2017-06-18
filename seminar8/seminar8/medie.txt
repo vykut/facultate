@@ -1,0 +1,32 @@
+Anul 1
+	Grupa 1013
+	1.	grigore	10.0
+Media grupei 1013	10.0
+	Grupa 1014
+	1.	victor	10.0
+Media grupei 1014	10.0
+Media anului 1	10.0
+Anul 2
+	Grupa 1009
+	1.	alonso	10.0
+Media grupei 1009	10.0
+	Grupa 1018
+	1.	vasile	10.0
+Media grupei 1018	10.0
+	Grupa 1023
+	1.	traian	10.0
+Media grupei 1023	10.0
+	Grupa 1034
+	1.	pictor	10.0
+Media grupei 1034	10.0
+Media anului 2	10.0
+Anul 3
+	Grupa 1011
+	1.	iulian	8.0
+Media grupei 1011	8.0
+	Grupa 1098
+	1.	madalin	8.5
+	2.	madalin	8.5
+	3.	madalin	8.5
+Media grupei 1098	8.5
+Media anului 3	8.2

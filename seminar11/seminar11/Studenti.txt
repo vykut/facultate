@@ -1,0 +1,5 @@
+
+Cod matr.  Nume si prenume                     Grupa An Note
+
+        1.                              victor  1014  1 10 10 10  2  1 10  0 
+        2.                             madalin  2046  2  6  7  8  2  2 

@@ -1,0 +1,2 @@
+Nr. randuri || Nr. maxim cuvinte || Nr. rand || Lungime maxima rand || cel mai mic cuvant || cel mai mare cuvant
+4              14                   1           88                     3                     9
